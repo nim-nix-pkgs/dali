@@ -11,6 +11,7 @@
   inputs.src-dali-master.ref   = "refs/heads/master";
   inputs.src-dali-master.owner = "akavel";
   inputs.src-dali-master.repo  = "dali";
+  inputs.src-dali-master.dir   = "";
   inputs.src-dali-master.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";
