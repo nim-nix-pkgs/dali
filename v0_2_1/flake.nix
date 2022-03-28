@@ -11,7 +11,6 @@
   inputs.src-dali-v0_2_1.ref   = "refs/tags/v0.2.1";
   inputs.src-dali-v0_2_1.owner = "akavel";
   inputs.src-dali-v0_2_1.repo  = "dali";
-  inputs.src-dali-v0_2_1.dir   = "";
   inputs.src-dali-v0_2_1.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";
