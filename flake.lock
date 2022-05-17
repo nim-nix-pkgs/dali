@@ -13,11 +13,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -41,11 +41,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -97,11 +97,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -153,11 +153,11 @@
       },
       "locked": {
         "dir": "v0_2_3",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -181,11 +181,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "v0_4_0",
-        "lastModified": 1652367052,
-        "narHash": "sha256-VqUd6r4DyRj66RNeAWQE/NNIW4VPTanhw6CtETr0GGU=",
+        "lastModified": 1652392174,
+        "narHash": "sha256-zXaZwTNeEoFbB8jmQJfD2dI5YEQq6+KYUWxq/HnXNGY=",
         "owner": "nim-nix-pkgs",
         "repo": "dali",
-        "rev": "167020911432895b0d5625a6d050dd122347325b",
+        "rev": "4e32e27dac1adf91ede83aa3dfa9731ecaa960e1",
         "type": "github"
       },
       "original": {
@@ -270,11 +270,11 @@
       },
       "locked": {
         "dir": "0_3_3",
-        "lastModified": 1651918299,
-        "narHash": "sha256-IfApWYvozJOKGcFFNR4+mNflIvzOXAhZCzeOwl5oiZc=",
+        "lastModified": 1652391429,
+        "narHash": "sha256-tvPL5pCUOmuLZnOlijoAhpZJkI/7CB2LDQ0FU1hkbi0=",
         "owner": "nim-nix-pkgs",
         "repo": "patty",
-        "rev": "510353b28a3f1a56315616e31b92408522aa9402",
+        "rev": "df1c2a130e4bd4ffd1a1bdd867d01b64a0adb017",
         "type": "github"
       },
       "original": {
